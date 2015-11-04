@@ -1,0 +1,6 @@
+id_cs,name_cs,icon_c,time_s
+绝对唯一,名字,图标,时间
+Write some comments,可以写一些注释,いくつかのコメントを書きます,some comments
+1,"你好""Hello,""1",/abc/icon\a1,1000
+2,もしもし,\abc/icon\a2,1001
+3,"123,abc,,,,,,,,,,",\abc/icon\a11,1002
